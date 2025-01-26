@@ -1,1 +1,1 @@
-Approach to find novel CRAF inhibitors through machin learning approach. 
+Approach to find novel CRAF inhibitors through machine learning approach. 
